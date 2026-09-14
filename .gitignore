@@ -9,3 +9,7 @@ checkpoints/
 .tmp/
 *.onnx
 *.TXT
+wandb/
+.venv/
+.DS_Store
+*.pkl.bak
